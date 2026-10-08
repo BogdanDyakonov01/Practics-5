@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ConsoleApp46\ConsoleApp46\bin\Debug\net8.0\ConsoleApp46.exe
+C:\Users\User\source\repos\ConsoleApp46\ConsoleApp46\bin\Debug\net8.0\ConsoleApp46.deps.json
+C:\Users\User\source\repos\ConsoleApp46\ConsoleApp46\bin\Debug\net8.0\ConsoleApp46.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp46\ConsoleApp46\bin\Debug\net8.0\ConsoleApp46.dll
+C:\Users\User\source\repos\ConsoleApp46\ConsoleApp46\bin\Debug\net8.0\ConsoleApp46.pdb
+C:\Users\User\source\repos\ConsoleApp46\ConsoleApp46\obj\Debug\net8.0\ConsoleApp46.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleApp46\ConsoleApp46\obj\Debug\net8.0\ConsoleApp46.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp46\ConsoleApp46\obj\Debug\net8.0\ConsoleApp46.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp46\ConsoleApp46\obj\Debug\net8.0\ConsoleApp46.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp46\ConsoleApp46\obj\Debug\net8.0\ConsoleApp46.dll
+C:\Users\User\source\repos\ConsoleApp46\ConsoleApp46\obj\Debug\net8.0\refint\ConsoleApp46.dll
+C:\Users\User\source\repos\ConsoleApp46\ConsoleApp46\obj\Debug\net8.0\ConsoleApp46.pdb
+C:\Users\User\source\repos\ConsoleApp46\ConsoleApp46\obj\Debug\net8.0\ConsoleApp46.genruntimeconfig.cache
+C:\Users\User\source\repos\ConsoleApp46\ConsoleApp46\obj\Debug\net8.0\ref\ConsoleApp46.dll
